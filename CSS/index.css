@@ -1,0 +1,101 @@
+*{
+	box-sizing: border-box;
+}
+
+.container{
+	  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  padding-bottom: 1px;
+}
+
+
+.section2{
+	  position: relative;
+}
+img{
+	border-radius: 20px;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 300px;
+  right: 100px;
+  background-color:#FAD7A0;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 40px;
+}
+
+#saklolo {
+	font-size: 100px;
+}
+
+.proceed{
+	text-decoration: none;
+}
+
+#btn{
+	border-radius: 20px;
+	border: none;
+	  color: white;
+	  padding: 14px 28px;
+	  font-size: 16px;
+	  cursor: pointer;
+	  background-color: #04AA6D;
+	  text-decoration: none;
+	  color: white;
+}
+
+
+
+.clearfix img{
+	border-radius: 20px;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #04AA6D;
+  border-radius: 20px;
+}
+#firstClearfix{
+	background: #F2F3F4;
+}
+
+#secondClearfix{
+	background: #FAD7A0;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 300px;
+  right: 100px;
+  background-color:#FAD7A0;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 40px;
+}
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: white;
+  color: white;
+}
+
+table a{
+
+	
+	text-decoration: none;
+}
+
+
+td a:visited {
+  color: black;
+
+}

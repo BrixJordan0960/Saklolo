@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background: linear-gradient(to top right, #00f7ff 20%, #49a6e8 60%);
+}
+
+.section2{
+	  position: relative;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 300px;
+  right: 100px;
+  background-color:#FAD7A0;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 40px;
+}
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: white;
+  color: white;
+}
+
+table a{
+
+	
+	text-decoration: none;
+}
+
+
+td a:visited {
+  color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
